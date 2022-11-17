@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cornelleus
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 64f292902a8026e48a8baaf84195cd66, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 709858775, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: -1447852984, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: -929690956, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: 1609905401, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: 350071774, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: 114246129, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: 371868159, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: -1160985142, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: 1049477995, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: -557453408, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: -360308450, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: -613724838, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: 1694181816, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: 154248512, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: -340331327, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: -1889147988, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: -624070137, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: -1463017850, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: -1429535760, guid: 68271575753c06c4d803d0d7e9bd133f, type: 3}
+  - {fileID: 648358923, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: 169258508, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: -138058303, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: -803203429, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: 2130124781, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: -1631702751, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: -1884046952, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: 947187509, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: -1439571001, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: 2059669151, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: -340771800, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: 1992499073, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: -1945012406, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: -1010245550, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: -1204809485, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: 1983822803, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  - {fileID: 2053734982, guid: 5f1956f8ad1322444af2e6e43fe6ebe6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cornelleus(With Abs)_12
+  - Cornelleus(With Abs)_13
+  - Cornelleus(With Abs)_10
+  - Cornelleus(With Abs)_11
+  - Cornelleus(With Abs)_16
+  - Cornelleus(With Abs)_17
+  - Cornelleus(With Abs)_14
+  - Cornelleus(With Abs)_15
+  - Cornelleus(With Abs)_18
+  - Cornelleus(With Abs)_7
+  - Cornelleus(With Abs)_6
+  - Cornelleus(With Abs)_5
+  - Cornelleus(With Abs)_4
+  - Cornelleus(With Abs)_3
+  - Cornelleus(With Abs)_2
+  - Cornelleus(With Abs)_1
+  - Cornelleus(With Abs)_0
+  - Cornelleus(With Abs)_9
+  - Cornelleus(With Abs)_8
+  - Cornelleus(Without Abs)_14
+  - Cornelleus(Without Abs)_15
+  - Cornelleus(Without Abs)_16
+  - Cornelleus(Without Abs)_10
+  - Cornelleus(Without Abs)_11
+  - Cornelleus(Without Abs)_12
+  - Cornelleus(Without Abs)_13
+  - Cornelleus(Without Abs)_9
+  - Cornelleus(Without Abs)_8
+  - Cornelleus(Without Abs)_5
+  - Cornelleus(Without Abs)_4
+  - Cornelleus(Without Abs)_7
+  - Cornelleus(Without Abs)_6
+  - Cornelleus(Without Abs)_1
+  - Cornelleus(Without Abs)_0
+  - Cornelleus(Without Abs)_3
+  - Cornelleus(Without Abs)_2
+  m_RenderDataMap: {}
+  m_Tag: Cornelleus
+  m_IsVariant: 0

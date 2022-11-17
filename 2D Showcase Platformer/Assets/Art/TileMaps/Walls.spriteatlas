@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Walls
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 80f8ecfceafec954eb2b43f448fdd364, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1140879305, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 124748138, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 182597844, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: -1708208382, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 1467679373, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 283860993, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 1531609569, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: -1520706357, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: -1121536888, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: -909691411, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 690666362, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 695571878, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 1749011333, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 1846861028, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: -53091156, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 2022304891, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 242117820, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 900599496, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 2001211488, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 1217424911, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 1791802508, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 654748771, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 286956853, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 1042964331, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 224754642, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: -1440364030, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 2133824851, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 1283602979, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: -1985568612, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 1782571313, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 474626916, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: 1891107876, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: -702785814, guid: f1e8394a265031a4bb7d972eb9d05e0a, type: 3}
+  - {fileID: -167478598, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: -1788254117, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: 556806051, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: 1663228752, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: 1439976784, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: 103905196, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: 2032175201, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: 1627163039, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: -316637352, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: -1127194292, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: -1703805498, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: -610930646, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: -1154367346, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: -1141617140, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: -1995221061, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: -1286366513, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: 273511720, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: 1251017503, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: -1213558362, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: -1586276768, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: 105304369, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  - {fileID: -1538340262, guid: ad9fdf1f885659e48ad69db5da8f6349, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Stone_Wall_8
+  - Stone_Wall_9
+  - Stone_Wall_4
+  - Stone_Wall_5
+  - Stone_Wall_6
+  - Stone_Wall_7
+  - Stone_Wall_0
+  - Stone_Wall_1
+  - Stone_Wall_2
+  - Stone_Wall_3
+  - Stone_Wall_17
+  - Stone_Wall_16
+  - Stone_Wall_15
+  - Stone_Wall_14
+  - Stone_Wall_13
+  - Stone_Wall_12
+  - Stone_Wall_28
+  - Stone_Wall_11
+  - Stone_Wall_29
+  - Stone_Wall_10
+  - Stone_Wall_22
+  - Stone_Wall_23
+  - Stone_Wall_20
+  - Stone_Wall_19
+  - Stone_Wall_21
+  - Stone_Wall_18
+  - Stone_Wall_26
+  - Stone_Wall_27
+  - Stone_Wall_24
+  - Stone_Wall_25
+  - Stone_Wall_31
+  - Stone_Wall_30
+  - Stone_Wall_32
+  - Brick_Wall_17
+  - Brick_Wall_16
+  - Brick_Wall_15
+  - Brick_Wall_14
+  - Brick_Wall_13
+  - Brick_Wall_12
+  - Brick_Wall_11
+  - Brick_Wall_8
+  - Brick_Wall_10
+  - Brick_Wall_9
+  - Brick_Wall_4
+  - Brick_Wall_5
+  - Brick_Wall_6
+  - Brick_Wall_20
+  - Brick_Wall_7
+  - Brick_Wall_19
+  - Brick_Wall_21
+  - Brick_Wall_0
+  - Brick_Wall_18
+  - Brick_Wall_1
+  - Brick_Wall_2
+  - Brick_Wall_3
+  m_RenderDataMap: {}
+  m_Tag: Walls
+  m_IsVariant: 0
